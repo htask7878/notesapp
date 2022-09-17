@@ -1,0 +1,48 @@
+import 'package:flutter/material.dart';
+
+class model{
+static List<Color> color1 = [
+  Colors.white,
+  Color(0xffFFEBEE),
+  Color(0xffFCE4EC),
+  Color(0xffF3E5F5),
+  Color(0xffEDE7F6),
+  Color(0xffE8EAF6),
+  Color(0xffE3F2FD),
+  Color(0xffE1F5FE),
+  Color(0xffE0F7FA),
+  Color(0xffE0F2F1),
+  Color(0xffE8F5E9),
+  Color(0xffF1F8E9),
+  Color(0xffF9FBE7),
+  Color(0xffFFFDE7),
+  Color(0xffFFF8E1),
+  Color(0xffFFF3E0),
+  Color(0xffFBE9E7),
+  Color(0xffEFEBE9),
+  Color(0xffFAFAFA),
+  Color(0xffECEFF1),
+  ];
+List<Color> color = [
+  Colors.white,
+  Color(0xffFFEBEE),
+  Color(0xffFFCDD2),
+  Color(0xffF8BBD0),
+  Color(0xffCE93D8),
+  Color(0xffD1C4E9),
+  Color(0xffC5CAE9),
+  Color(0xffBBDEFB),
+  Color(0xffB3E5FC),
+  Color(0xffB2EBF2),
+  Color(0xffC8E6C9),
+  Color(0xffDCEDC8),
+  Color(0xffF0F4C3),
+  Color(0xffFFF9C4),
+  Color(0xffFFECB3),
+  Color(0xffFFE0B2),
+  Color(0xffFFCCBC),
+  Color(0xffF5F5F5),
+  Color(0xffCFD8DC),
+  Color(0xffFFE57F),
+];
+}
